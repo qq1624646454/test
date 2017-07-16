@@ -1,0 +1,17 @@
+
+Automatically activate the VPN connection between service and peer via n2n
+
+
+
+##
+## Setup VPN N2N Connection between PhilipsTV Server and Client
+##
+
+## Please run the service when your environment is Server for PhilipsTV
+./jll.setup.vpn_n2n_PhilipsTV_service.sh
+
+
+## Please run the peer when your environment is Client for PhilipsTV 
+./jll.setup.vpn_n2n_PhilipsTV_peer.sh
+
+
